@@ -1,4 +1,4 @@
-Priemr proyecto en Python
+Primer proyecto en Python
 
 Creación de la interface de una caluladora completamente funcional
 
